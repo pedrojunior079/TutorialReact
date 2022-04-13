@@ -2,16 +2,16 @@ import './App.css';
 import React from 'react';
 
 
-import AppRelogioSate2 from './AppRelogioState2';
 
+import AppRendCondicionalV3 from './AppRendCondicionalV3';
 
 
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       
-      <AppRelogioSate2/>      
+      <AppRendCondicionalV3/>      
     </div>
   );
 }
