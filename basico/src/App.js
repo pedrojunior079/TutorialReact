@@ -8,13 +8,16 @@ import React from 'react';
 //import AppUsoCorretoDeChaves from './AppUsoCorretoDeChaves';
 //import AppListaChavesUnicas from './AppListaChavesUnicas';
 //import AppAdicionarMap from './AppAdicionarMap';
-import AppControllerText from './AppControllerText';
+//import AppControllerText from './AppControllerText';
+import AppMultiplosInputs from './AppMultiplosInputs';
+
+
 
 function App() {
   return (
     <div className='App'>
       
-      <AppControllerText />      
+      <AppMultiplosInputs />      
     </div>
   );
 }

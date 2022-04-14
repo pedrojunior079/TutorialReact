@@ -1,6 +1,9 @@
 import React from "react";
 import ReactDOM from 'react-dom';
 
+//Componentes Controlados (Controlled Components) 
+//dentro de form
+
 export default function AppControllerText(){
     class NomeForm extends React.Component{
         constructor(props){
