@@ -11,15 +11,16 @@ import React from 'react';
 //import AppControllerText from './AppControllerText';
 //import AppMultiplosInputs from './AppMultiplosInputs';
 //import AppCalcTemperatura from './AppCalcTemperatura';
-import AppElevandoTemperatura from './AppElevandoTemperatura';
-
+//import AppElevandoTemperatura from './AppElevandoTemperatura';
+//import AppContencaoV2 from './AppContencaoV2';
+import AppEspecializacao from './AppEspecializacao';
 
 
 function App() {
   return (
     <div className='App'>
       
-      <AppElevandoTemperatura />      
+      <AppEspecializacao />      
     </div>
   );
 }
