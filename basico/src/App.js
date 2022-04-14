@@ -9,7 +9,9 @@ import React from 'react';
 //import AppListaChavesUnicas from './AppListaChavesUnicas';
 //import AppAdicionarMap from './AppAdicionarMap';
 //import AppControllerText from './AppControllerText';
-import AppMultiplosInputs from './AppMultiplosInputs';
+//import AppMultiplosInputs from './AppMultiplosInputs';
+//import AppCalcTemperatura from './AppCalcTemperatura';
+import AppElevandoTemperatura from './AppElevandoTemperatura';
 
 
 
@@ -17,7 +19,7 @@ function App() {
   return (
     <div className='App'>
       
-      <AppMultiplosInputs />      
+      <AppElevandoTemperatura />      
     </div>
   );
 }
