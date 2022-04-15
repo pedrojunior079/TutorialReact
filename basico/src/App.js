@@ -13,14 +13,15 @@ import React from 'react';
 //import AppCalcTemperatura from './AppCalcTemperatura';
 //import AppElevandoTemperatura from './AppElevandoTemperatura';
 //import AppContencaoV2 from './AppContencaoV2';
-import AppEspecializacao from './AppEspecializacao';
+//import AppEspecializacao from './AppEspecializacao';
+import AppPensandoReact from './AppPensandoReact';
 
 
 function App() {
   return (
     <div className='App'>
       
-      <AppEspecializacao />      
+      <AppPensandoReact />      
     </div>
   );
 }
